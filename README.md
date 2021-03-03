@@ -1,15 +1,16 @@
-# WELCOME,
-
+# Dere 🤗
 
 
 <a href="https://github.com/drdreo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=drdreo&count_private=true&show_icons=true&theme=slateorange" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drdreo&theme=slateorange&layout=compact" />
 </a>
 
 
+## Waka 
 [![DrDreo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrDreo)](https://github.com/anuraghazra/github-readme-stats)
 
 
