@@ -2,10 +2,13 @@
 
 
 
+<a href="https://github.com/drdreo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drdreo&count_private=true&show_icons=true&theme=slateorange" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drdreo&theme=slateorange&layout=compact" />
+</a>
 
-[![DrDreo's stats](https://github-readme-stats.vercel.app/api?username=drdreo&count_private=true&show_icons=true&theme=slateorange)](https://github.com/drdreo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drdreo&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![DrDreo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrDreo)](https://github.com/anuraghazra/github-readme-stats)
 
