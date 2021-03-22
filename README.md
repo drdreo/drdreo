@@ -11,7 +11,7 @@
 
 <hr>
 
-[![DrDreo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrDreo)](https://github.com/anuraghazra/github-readme-stats)
+[![DrDreo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrDreo&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 📺 I’m currently trying out [streaming](https://twitch.tv/drdrero). You might catch me there
