@@ -1,6 +1,7 @@
 # Dere 🤗
 
 
+<div style="display:flex;">
 <a href="https://github.com/drdreo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=drdreo&custom_title=GitHub%20Stats&count_private=true&show_icons=true&theme=ayu-mirage" />
 </a>
@@ -8,7 +9,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drdreo&custom_title=My%Languages&theme=ayu-mirage&layout=compact" />
 </a>
-
+</div>
 <hr>
 
 [![DrDreo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrDreo&theme=ayu-mirage&layout=as&custom_title=Coding%20Time)](https://github.com/anuraghazra/github-readme-stats)
