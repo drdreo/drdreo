@@ -2,16 +2,16 @@
 
 
 <a href="https://github.com/drdreo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drdreo&count_private=true&show_icons=true&theme=slateorange" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drdreo&custom_title=GitHub%20Stats&count_private=true&show_icons=true&theme=ayu-mirage" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drdreo&theme=slateorange&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drdreo&custom_title=My%Languages&theme=ayu-mirage&layout=compact" />
 </a>
 
 <hr>
 
-[![DrDreo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrDreo&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![DrDreo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrDreo&theme=ayu-mirage&layout=as&custom_title=Coding%20Time)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 📺 I’m currently trying out [streaming](https://twitch.tv/drdrero). You might catch me there
