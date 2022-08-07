@@ -1,4 +1,4 @@
-# Dere 🤗
+# Servus 🤗
 
 <div>
 <a href="https://github.com/drdreo">
@@ -14,6 +14,6 @@
 
 [![DrDreo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrDreo&theme=ayu-mirage&layout=as&custom_title=Coding%20Time)](https://github.com/anuraghazra/github-readme-stats)
 
+Just a guy looking to improve as a developer, build projects with passion, and ultimately having fun creating awesome software.
 
 - 📺 I’m currently trying out [streaming](https://twitch.tv/drdrero). You might catch me there
-- 💬 Ask me about all my nicknames I have acquired over the years. Like 10+ names people call me in real life.
