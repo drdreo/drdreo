@@ -16,4 +16,4 @@
 
 Just a guy looking to improve as a developer, build projects with passion, and ultimately having fun creating awesome software.
 
-- 📺 I’m currently trying out [streaming](https://twitch.tv/drdrero). You might catch me there
+- 📺 I’m trying out [streaming](https://twitch.tv/drdrero) from time to time. Leave a follow.
